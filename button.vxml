@@ -1,0 +1,9 @@
+<control x:name="button">
+  <Width75</Width>
+  <Height>25</Height>
+  <Attributtes>
+    <Attr x:name="Text" x:default="0">
+    
+    </Attr>
+  </Attributtes>
+</control>
